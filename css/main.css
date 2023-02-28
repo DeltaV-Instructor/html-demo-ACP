@@ -5,4 +5,27 @@ body{
 img {
   height: 250px;
   width: 250px;
+  float: left;
+}
+
+header {
+  background-color: aliceblue;
+}
+
+footer{
+  position: fixed;
+  bottom: 0;
+  right:0;
+  left: 0;
+  background-color: aliceblue;
+}
+
+main{
+  background-color: bisque;
+  height: 500px;
+  width: 600px;
+}
+
+section{
+  padding: 40px;
 }
